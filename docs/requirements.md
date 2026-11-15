@@ -1,7 +1,5 @@
 # Project Requirements
 
-A one-page PDF version of this document is in [Project_Requirements.pdf](Project_Requirements.pdf).
-
 ## Building the Data Warehouse (Data Engineering)
 
 ### Objective
