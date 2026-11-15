@@ -28,7 +28,8 @@ The data architecture for this project follows the **Medallion Architecture** co
 │   ├── silver/             Data cleaning and transformation scripts
 │   └── gold/               Star schema and analytical data model scripts
 └── tests/                  Data quality and validation checks for Silver and Gold layers
-
+```
+---
 ## 📖 Project Overview
 
 Key objectives implemented in this repository:
